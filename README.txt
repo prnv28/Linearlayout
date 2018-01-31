@@ -1,1 +1,1 @@
-this is code for intent and linearlayout basix=cs in android.
+this is code for intent and linearlayout basics in android.
